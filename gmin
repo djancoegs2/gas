@@ -1,0 +1,2 @@
+./miner --algo kawpow --server stratum+tcp://kp.unmineable.com:3333 --user SOL:DvGynuKv6ef33iFBoiVEBZfPz5uR4fAGHz6zdDj4rJfk.vware
+pause
